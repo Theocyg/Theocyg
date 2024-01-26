@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 👋, I'm Théo 🏴!
 
-<!--
-**Theocyg/Theocyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspirant Consultant en Cybersécurité 🏴‍☠️
 
-Here are some ideas to get you started:
+J'adore explorer de nouvelles technologies, découvrir de nouveaux outils et construire des solutions efficaces. Je suis constamment en apprentissage pour développer mes compétences et aspire à devenir un expert dans le domaine de la cybersécurité.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Gif Code](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
+
+Actuellement, je n'ai pas encore de spécialisation particulière, et j'aime m'immerger dans différents aspects de la cybersécurité. Je m'instruit activement sur des plateformes comme TryHackMe pour acquérir une expérience pratique, relever divers défis et découvrir ce qui me passionne vraiment.
+
+<script src="https://tryhackme.com/badge/1851300"></script>
+
+
