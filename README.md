@@ -8,6 +8,8 @@ J'adore explorer de nouvelles technologies, découvrir de nouveaux outils et con
 
 Actuellement, je n'ai pas encore de spécialisation particulière, et j'aime m'immerger dans différents aspects de la cybersécurité. Je m'instruit activement sur des plateformes comme TryHackMe pour acquérir une expérience pratique, relever divers défis et découvrir ce qui me passionne vraiment.
 
-<script src="https://tryhackme.com/badge/1851300"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Picsou..png" alt="TryHackMe">
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
