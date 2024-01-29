@@ -4,9 +4,16 @@
 
 J'adore explorer de nouvelles technologies, découvrir de nouveaux outils et construire des solutions efficaces. Je suis constamment en apprentissage pour développer mes compétences et aspire à devenir un expert dans le domaine de la cybersécurité.
 
+# For my 🇬🇧 friends
+Exploring new technologies, discovering new tools, and building effective solutions is something I love to do. I am constantly learning to develop my skills and aspire to become an expert in the field of cybersecurity.
+
 ![Gif Code](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 Actuellement, je n'ai pas encore de spécialisation particulière, mais j'aime m'immerger dans différents aspects de la cybersécurité. Je m'instruit activement sur des plateformes comme TryHackMe pour acquérir une expérience pratique, relever divers défis et découvrir ce qui me passionne vraiment.
+
+# For my 🇬🇧 friends
+Currently, I don’t have a particular specialization yet, but I like to immerse myself in different aspects of cybersecurity. I actively learn on platforms like TryHackMe to acquire practical skills, take on diverse challenges, and discover what I’m really passionate about.
+
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Picsou..png" alt="TryHackMe">
 
