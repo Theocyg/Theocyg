@@ -10,7 +10,7 @@ Exploring new technologies, discovering new tools, and building effective soluti
 ![Gif Code](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 
-
+<script src="https://tryhackme.com/badge/1851300"></script>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Picsou..png" alt="TryHackMe">
 
 # 📊GitHub Stats (Noob Stats):
