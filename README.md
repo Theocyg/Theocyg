@@ -13,7 +13,7 @@ Exploring new technologies, discovering new tools, and building effective soluti
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Picsou..png" alt="TryHackMe">
 
-# 📊GitHub Stats (Noob Stats):
+# 📊GitHub (Noob) Stats :
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Theocyg/github-profile-trophy)
 
 ![](https://github-readme-stats.vercel.app/api?username=Theocyg&theme=omni&hide_border=true&include_all_commits=false&count_private=false)<br/>
