@@ -1,15 +1,15 @@
 # <p align="center"> [𝐻𝑒𝓁𝓁𝑜 !](#-%F0%9D%93%97%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B5%F0%9D%93%B8-_-) <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218338072-ea477aa8-1374-4e2d-8dfd-dd8cc4e45656.gif"></p>
 
-<img src="https://user-images.githubusercontent.com/118815227/218338455-6034502f-e9dd-42e8-ba74-608fb41cdbaa.gif"> 𝚝𝚘 𝚖𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎
+<img src="https://user-images.githubusercontent.com/118815227/218338455-6034502f-e9dd-42e8-ba74-608fb41cdbaa.gif"> 𝚝𝚘 𝚖𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 <img src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/mask.svg" width="30">
 
 <p align="center">
 <a href="https://github.com/Theocyg"><img width="30" height="30" src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/github.svg" alt="GitHub profile and icon"></a>
 <a href="https://steamcommunity.com/id/Pics0u"><img width="30" height="30" src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/steam.svg" alt="Steam profile and icon"></a>
 <a href="https://www.twitch.tv/Bouddhasensei"><img width="30" height="30" src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/twitch.svg" alt="Twitch profile and icon"></a>
-<a href="https://theocyg.github.io/"><img width="30" height="30" src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/website-96.png" alt="Website and icon"></a>
+<a href="https://theocyg.github.io/"><img width="30" height="30" src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/website.png" alt="Website and icon"></a>
 <a href="https://www.xbox.com/en-US/play/user/TheoSensei7283"><img width="30" height="30" src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/xbox.svg" alt="Xbox profile and icon"></a>
 <a href="https://www.reddit.com/user/Picsou2600/"><img width="30" height="30" src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/reddit.svg" alt="Reddit profile and icon"></a>
-<a href="mailto:theo.cygan@gmail.com"><img width="30" height="30" src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/outlook.svg" alt="OutLook Email address and icon"></a>
+<a href="mailto:theo.cygan@gmail.com"><img width="30" height="30" src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/Gmail.svg" alt="Gmail Email address and icon"></a>
 </p>
 
 <br>
@@ -20,7 +20,7 @@
 
 <br>
 
- 𝙰𝚜𝚙𝚒𝚛𝚊𝚗𝚝 𝚎𝚗 𝙲𝚢𝚋𝚎𝚛𝚜𝚎́𝚌𝚞𝚛𝚒𝚝𝚎́ 🏴‍☠️ 𝙴́𝚝𝚞𝚍𝚒𝚊𝚗𝚝 𝚍𝚎 𝚕'<a href="https://www.2600.eu/ecole-2600/formation-bac-plus-5/?utm_term=ecole2600&utm_source=adwords&utm_medium=ppc&utm_campaign=&hsa_cam=13375171390&hsa_grp=129965319504&hsa_mt=e&hsa_src=g&hsa_ad=726951986154&hsa_acc={8356811580}&hsa_net=adwords&hsa_kw=ecole2600&hsa_tgt=aud-1300767584800:kwd-1240257691644&hsa_ver=3&gad_source=1&gclid=CjwKCAiAn9a9BhBtEiwAbKg6fricDAzqUYQr8ttwGSswnlIJckaGMJ9_aLpb7mUScqE5I2YEOGgT8BoC2-UQAvD_BwE">**𝚎𝚌𝚘𝚕𝚎2600** 𝙵𝚞𝚝𝚞𝚛 𝙿𝚎𝚗𝚝𝚎𝚜𝚝𝚎𝚛 🦾?
+ 𝙰𝚜𝚙𝚒𝚛𝚊𝚗𝚝 𝚎𝚗 𝙲𝚢𝚋𝚎𝚛𝚜𝚎́𝚌𝚞𝚛𝚒𝚝𝚎́ 🏴‍☠️, 𝙴́𝚝𝚞𝚍𝚒𝚊𝚗𝚝 𝚍𝚎 𝚕'<a href="https://www.2600.eu/ecole-2600/formation-bac-plus-5/?utm_term=ecole2600&utm_source=adwords&utm_medium=ppc&utm_campaign=&hsa_cam=13375171390&hsa_grp=129965319504&hsa_mt=e&hsa_src=g&hsa_ad=726951986154&hsa_acc={8356811580}&hsa_net=adwords&hsa_kw=ecole2600&hsa_tgt=aud-1300767584800:kwd-1240257691644&hsa_ver=3&gad_source=1&gclid=CjwKCAiAn9a9BhBtEiwAbKg6fricDAzqUYQr8ttwGSswnlIJckaGMJ9_aLpb7mUScqE5I2YEOGgT8BoC2-UQAvD_BwE"></a>**𝚎𝚌𝚘𝚕𝚎2600**, 𝙵𝚞𝚝𝚞𝚛 𝙿𝚎𝚗𝚝𝚎𝚜𝚝𝚎𝚛 ?<img src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/hacker.svg" width="30">
 
 <br>
 
@@ -30,11 +30,11 @@
 
 </div>
 
-## <img src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/20-love-heart-gradient.apng" width="20"/> [𝕄𝕪 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤](#-%C9%8F-%C9%BD%C3%B8j%C9%87-) <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218339451-5a8ccda3-a096-4847-a7f1-18aa6ea2436f.gif">
+## <img src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/my-project.apng" width="20"/> [𝕄𝕪 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤](#-%C9%8F-%C9%BD%C3%B8j%C9%87-) <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218339451-5a8ccda3-a096-4847-a7f1-18aa6ea2436f.gif">
 
-#### <img src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/20-love-heart-gradient.apng" width="14"/>  <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter">Bug Bounty Hunting Certification</a> Certification for Bug Bounty Hunter
+#### <img src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/my-project.apng" width="14"/>  <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter">Bug Bounty Hunting Certification</a> Certification for Bug Bounty Hunter
 
-#### <img src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/20-love-heart-gradient.apng" width="14"/>  <a href="https://github.com/Theocyg/CBBH">CBBH Pour les nuls</a> Working on a blog
+#### <img src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/my-project.apng" width="14"/>  <a href="https://github.com/Theocyg/CBBH">CBBH Pour les nuls</a> Working on a blog
 
 
 <br>
