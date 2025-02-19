@@ -46,6 +46,11 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Theocyg&theme=violet-dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
+<p align="center">
+  <img width="500" src="https://streak-stats.demolab.com?user=HotCakeX&theme=violet-dark&hide_border=true">
+</p>
+
+
 
 <br>
 <!-- 
