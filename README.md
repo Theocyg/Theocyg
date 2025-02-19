@@ -9,7 +9,7 @@
 <a href="https://theocyg.github.io/CBBH/"><img width="30" height="30" src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/website.png" alt="Website and icon"></a>
 <a href="https://www.xbox.com/en-US/play/user/TheoSensei7283"><img width="30" height="30" src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/xbox.svg" alt="Xbox profile and icon"></a>
 <a href="https://www.reddit.com/user/Picsou2600/"><img width="30" height="30" src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/reddit.svg" alt="Reddit profile and icon"></a>
-<a href="mailto:theo.cygan@gmail.com"><img width="30" height="30" src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/gmail.png" alt="Gmail Email address and icon"></a>
+<a href="mailto:theo.cygan@gmail.com"><img width="30" height="30" src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/gmail.svg" alt="Gmail address and icon"></a>
 </p>
 
 <br>
