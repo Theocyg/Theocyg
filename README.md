@@ -20,7 +20,7 @@
 
 <br>
 
- 𝙰𝚜𝚙𝚒𝚛𝚊𝚗𝚝 𝚎𝚗 𝙲𝚢𝚋𝚎𝚛𝚜𝚎́𝚌𝚞𝚛𝚒𝚝𝚎́ 🏴‍☠️, 𝙴́𝚝𝚞𝚍𝚒𝚊𝚗𝚝 𝚍𝚎 𝚕'<a href="https://www.2600.eu/ecole-2600/formation-bac-plus-5/?utm_term=ecole2600&utm_source=adwords&utm_medium=ppc&utm_campaign=&hsa_cam=13375171390&hsa_grp=129965319504&hsa_mt=e&hsa_src=g&hsa_ad=726951986154&hsa_acc={8356811580}&hsa_net=adwords&hsa_kw=ecole2600&hsa_tgt=aud-1300767584800:kwd-1240257691644&hsa_ver=3&gad_source=1&gclid=CjwKCAiAn9a9BhBtEiwAbKg6fricDAzqUYQr8ttwGSswnlIJckaGMJ9_aLpb7mUScqE5I2YEOGgT8BoC2-UQAvD_BwE"></a>**𝚎𝚌𝚘𝚕𝚎2600**, 𝙵𝚞𝚝𝚞𝚛 𝙿𝚎𝚗𝚝𝚎𝚜𝚝𝚎𝚛 ?<img src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/hacker.svg" width="30">
+ 𝙰𝚜𝚙𝚒𝚛𝚊𝚗𝚝 𝚎𝚗 𝙲𝚢𝚋𝚎𝚛𝚜𝚎́𝚌𝚞𝚛𝚒𝚝𝚎́ 🏴‍☠️, 𝙴́𝚝𝚞𝚍𝚒𝚊𝚗𝚝 𝚍𝚎 𝚕'<a href="https://www.2600.eu/ecole-2600/formation-bac-plus-5/?utm_term=ecole2600&utm_source=adwords&utm_medium=ppc&utm_campaign=&hsa_cam=13375171390&hsa_grp=129965319504&hsa_mt=e&hsa_src=g&hsa_ad=726951986154&hsa_acc={8356811580}&hsa_net=adwords&hsa_kw=ecole2600&hsa_tgt=aud-1300767584800:kwd-1240257691644&hsa_ver=3&gad_source=1&gclid=CjwKCAiAn9a9BhBtEiwAbKg6fricDAzqUYQr8ttwGSswnlIJckaGMJ9_aLpb7mUScqE5I2YEOGgT8BoC2-UQAvD_BwE"></a>**𝚎𝚌𝚘𝚕𝚎2600**, 𝙵𝚞𝚝𝚞𝚛 𝙿𝚎𝚗𝚝𝚎𝚜𝚝𝚎𝚛 ?<img src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/hacker.png" width="30">
 
 <br>
 
@@ -30,11 +30,11 @@
 
 </div>
 
-## <img src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/my-project.apng" width="20"/> [𝕄𝕪 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤](#-%C9%8F-%C9%BD%C3%B8j%C9%87-) <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218339451-5a8ccda3-a096-4847-a7f1-18aa6ea2436f.gif">
+## <img src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/my-project.gif" width="20"/> [𝕄𝕪 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤](#-%C9%8F-%C9%BD%C3%B8j%C9%87-) <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218339451-5a8ccda3-a096-4847-a7f1-18aa6ea2436f.gif">
 
-#### <img src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/my-project.apng" width="14"/>  <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter">Bug Bounty Hunting Certification</a> Certification for Bug Bounty Hunter
+#### <img src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/my-project.gif" width="14"/>  <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter">Bug Bounty Hunting Certification</a> Certification for Bug Bounty Hunter
 
-#### <img src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/my-project.apng" width="14"/>  <a href="https://github.com/Theocyg/CBBH">CBBH Pour les nuls</a> Working on a blog
+#### <img src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/my-project.gif" width="14"/>  <a href="https://github.com/Theocyg/CBBH">CBBH Pour les nuls</a> Working on a blog
 
 
 <br>
