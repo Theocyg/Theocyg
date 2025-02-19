@@ -45,6 +45,10 @@
   <img width="500" src="https://streak-stats.demolab.com?user=Theocyg&theme=violet-dark&hide_border=true">
 </p>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Theocyg&theme=violet-dark&hide_border=true)](https://git.io/streak-stats)
+
+
 <br>
 <!-- 
 ## <p align="center">[𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝙸 𝚎𝚗𝚍𝚘𝚛𝚜𝚎](#%F0%9D%99%BF%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%93%F0%9D%9A%8E%F0%9D%9A%8C%F0%9D%9A%9D%F0%9D%9A%9C-%F0%9D%99%B8-%F0%9D%9A%8E%F0%9D%9A%97%F0%9D%9A%8D%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%9C%F0%9D%9A%8E-) <img width="60" height="60" src="https://user-images.githubusercontent.com/118815227/218338592-6483fb60-6e85-4594-b3e7-c537e248b13d.gif"></p>
