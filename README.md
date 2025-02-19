@@ -1,15 +1,15 @@
 # <p align="center"> [𝐻𝑒𝓁𝓁𝑜 !](#-%F0%9D%93%97%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%B5%F0%9D%93%B8-_-) <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218338072-ea477aa8-1374-4e2d-8dfd-dd8cc4e45656.gif"></p>
 
-<img src="https://user-images.githubusercontent.com/118815227/218338455-6034502f-e9dd-42e8-ba74-608fb41cdbaa.gif"> 𝚝𝚘 𝚖𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 <img src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/mask.svg" width="30">
+<img src="https://user-images.githubusercontent.com/118815227/218338455-6034502f-e9dd-42e8-ba74-608fb41cdbaa.gif"> 𝚝𝚘 𝚖𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 <img src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/mask.png" width="30">
 
 <p align="center">
 <a href="https://github.com/Theocyg"><img width="30" height="30" src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/github.svg" alt="GitHub profile and icon"></a>
 <a href="https://steamcommunity.com/id/Pics0u"><img width="30" height="30" src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/steam.svg" alt="Steam profile and icon"></a>
 <a href="https://www.twitch.tv/Bouddhasensei"><img width="30" height="30" src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/twitch.svg" alt="Twitch profile and icon"></a>
-<a href="https://theocyg.github.io/"><img width="30" height="30" src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/website.png" alt="Website and icon"></a>
+<a href="https://theocyg.github.io/CBBH/"><img width="30" height="30" src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/website.png" alt="Website and icon"></a>
 <a href="https://www.xbox.com/en-US/play/user/TheoSensei7283"><img width="30" height="30" src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/xbox.svg" alt="Xbox profile and icon"></a>
 <a href="https://www.reddit.com/user/Picsou2600/"><img width="30" height="30" src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/reddit.svg" alt="Reddit profile and icon"></a>
-<a href="mailto:theo.cygan@gmail.com"><img width="30" height="30" src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/Gmail.svg" alt="Gmail Email address and icon"></a>
+<a href="mailto:theo.cygan@gmail.com"><img width="30" height="30" src="https://github.com/Theocyg/Theocyg/raw/main/Private/Images/Socials/Gmail.svg" alt="Gmail Email address and icon"></a>
 </p>
 
 <br>
