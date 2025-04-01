@@ -14,12 +14,14 @@
     <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.root-me.org/Picsou-879455?lang=fr">
-    <img src="https://img.shields.io/badge/Root--Me-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAUVBMVEUAAABvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrajtbCht7GEprNrr7BPppCEAAAADXRSTlMAQGBg0MDAwK+vr4CAgLgC4T7KAAAAoUlEQVR42mNgYGBkYGRgZGJkYmRgZmBgYkByCFMz0DAwB0gFg5xckWZkZmYVZjWQGpibwMDA0MHExAjBkZGRgYaFgYGNgYCBgYORiYWSQZGJgZGBg4NjQ3NDLQZmAAKIiCoFYGoFZCSgoZfQBDQkFpQUlBTUFbQUNFQ0tLT0DYwMwMTIyMjAwMDEzMrAwMDBRB3UEDAB07AtViFlWDQAAAABJRU5ErkJggg==" alt="Root-Me logo" />
+    <img src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/rootme.svg" height="30" alt="Root-Me" />
   </a>
 </p>
 
 <div align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1851300" style="border:none;width:350px;height:200px;"></iframe>
+  <a href="https://tryhackme.com/p/Theocyg">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Picsou..png" alt="TryHackMe Badge" />
+  </a>
 </div>
 
 ---
