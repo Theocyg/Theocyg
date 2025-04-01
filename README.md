@@ -7,19 +7,20 @@
   <a href="https://steamcommunity.com/id/Pics0u">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
-  <a href="https://theocyg.github.io/Blog/">
+  <a href="https://theocyg.github.io/CBBH/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:theo.cygan@gmail.com">
     <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.root-me.org/Picsou-879455?lang=fr">
-    <img src="https://img.shields.io/badge/Root--Me-111111?style=for-the-badge&logo=ghostery&logoColor=white" />
-  </a>
-  <a href="https://tryhackme.com/p/Theocyg">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+    <img src="https://img.shields.io/badge/Root--Me-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAUVBMVEUAAABvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrZvrrajtbCht7GEprNrr7BPppCEAAAADXRSTlMAQGBg0MDAwK+vr4CAgLgC4T7KAAAAoUlEQVR42mNgYGBkYGRgZGJkYmRgZmBgYkByCFMz0DAwB0gFg5xckWZkZmYVZjWQGpibwMDA0MHExAjBkZGRgYaFgYGNgYCBgYORiYWSQZGJgZGBg4NjQ3NDLQZmAAKIiCoFYGoFZCSgoZfQBDQkFpQUlBTUFbQUNFQ0tLT0DYwMwMTIyMjAwMDEzMrAwMDBRB3UEDAB07AtViFlWDQAAAABJRU5ErkJggg==" alt="Root-Me logo" />
   </a>
 </p>
+
+<div align="center">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1851300" style="border:none;width:350px;height:200px;"></iframe>
+</div>
 
 ---
 
@@ -35,10 +36,36 @@
 
 ## 📜 Certifications
 
-- 🏅 **Junior Penetration Tester** — TryHackMe ✅  
+- ✅ **Junior Penetration Tester** — TryHackMe  
 - 🧪 **Certified Bug Bounty Hunter (CBBH)** — Hack The Box *(en préparation)*  
 - 🔐 **Certified Penetration Testing Specialist (CPTS)** — Hack The Box *(en préparation)*  
-- 🧠 **Ethical Hacker** — Cisco Networking Academy *(en cours)*
+- 🧠 **Ethical Hacker** — Cisco Networking Academy *(en cours)*  
+- 🛡️ **SecNumAcadémie** — ANSSI  
+- 📄 **MOOC CNIL – RGPD**  
+- 🔧 **Trend Micro Deep Security / Vision One / Apex Central**
+
+---
+
+## 🛠️ Compétences techniques
+
+### 🔍 Pentest & Offensive Security
+- Kali Linux, Nmap, BloodHound, Metasploit, Burp Suite Pro, Wireshark, Hydra, Nikto, SQLMap, Responder, John the Ripper
+
+### 🧠 Méthodologies & Standards
+- OWASP Top 10, MITRE ATT&CK
+
+### 🌐 Réseau
+- Protocoles : LAN/WAN, RIP, NAT, TCP/IP, HTTP/S, SMTP, SSH, LDAP, VPN, IPsec, TLS  
+- Cisco (routing/switching), OpenVPN
+
+### 💻 Scripting & Automatisation
+- Python, Bash, PowerShell, Ansible (en cours)
+
+### 🧪 Outils d’énumération
+- Dirbuster, Dirb, Gobuster, Recon-ng
+
+### 🧰 Autres
+- Docker, Exegol, Git
 
 ---
 
@@ -53,15 +80,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Theocyg&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak stats" />
 </p>
-
----
-
-## 🛠️ Compétences techniques
-
-- **Langages** : Python, Bash, JavaScript  
-- **Outils** : Burp Suite, Wireshark, Metasploit, Nmap  
-- **OS** : Kali Linux, Parrot, Windows  
-- **Autres** : Git, GitHub, Markdown
 
 ---
 
