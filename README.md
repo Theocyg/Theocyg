@@ -7,7 +7,7 @@
   <a href="https://steamcommunity.com/id/Pics0u">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
-  <a href="https://theocyg.github.io/CBBH/">
+  <a href="https://theocyg.github.io/Blog/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:theo.cygan@gmail.com">
@@ -70,7 +70,7 @@
 
 ## 📂 Projets
 
-- ✍️ [**CBBH pour les nuls**](https://github.com/Theocyg/CBBH) — Blog pédagogique en cybersécurité
+- ✍️ [**CBBH pour les nuls**](https://theocyg.github.io/Blog/) — Blog pédagogique en cybersécurité
 
 ---
 
