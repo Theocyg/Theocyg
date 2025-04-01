@@ -42,9 +42,6 @@
 - 🧪 **Certified Bug Bounty Hunter (CBBH)** — Hack The Box *(en préparation)*  
 - 🔐 **Certified Penetration Testing Specialist (CPTS)** — Hack The Box *(en préparation)*  
 - 🧠 **Ethical Hacker** — Cisco Networking Academy *(en cours)*  
-- 🛡️ **SecNumAcadémie** — ANSSI  
-- 📄 **MOOC CNIL – RGPD**  
-- 🔧 **Trend Micro Deep Security / Vision One / Apex Central**
 
 ---
 
