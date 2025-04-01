@@ -7,7 +7,7 @@
   <a href="https://steamcommunity.com/id/Pics0u">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
-  <a href="https://theocyg.github.io/CBBH/">
+  <a href="https://theocyg.github.io/Blog/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:theo.cygan@gmail.com">
