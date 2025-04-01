@@ -13,11 +13,9 @@
   <a href="mailto:theo.cygan@gmail.com">
     <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <p align="center">
   <a href="https://www.root-me.org/Picsou-879455?lang=fr">
-    <img src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/rootme.svg" alt="Root-Me" style="background-color: white; padding: 10px; border-radius: 5px;" height="30" />
+    <img src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/rootme.svg" height="30" alt="Root-Me" />
   </a>
-</p>
 </p>
 
 <div align="center">
