@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.root-me.org/Picsou-879455?lang=fr">
-    <img src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/rootme.svg" height="30" alt="Root-Me" />
+    <img src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/rootme.webp" height="30" alt="Root-Me" />
   </a>
 </p>
 
