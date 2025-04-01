@@ -10,6 +10,7 @@
 <a href="https://www.xbox.com/en-US/play/user/TheoSensei7283"><img width="30" height="30" src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/xbox.svg" alt="Xbox profile and icon"></a>
 <a href="https://www.reddit.com/user/Picsou2600/"><img width="30" height="30" src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/reddit.svg" alt="Reddit profile and icon"></a>
 <a href="mailto:theo.cygan@gmail.com"><img width="30" height="30" src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/gmail.svg" alt="Gmail address and icon"></a>
+ <a href="https://www.root-me.org/Picsou-879455?lang=fr#679e072e8415b15e454ee032c019e9fe"><img width="30" height="30" src="https://raw.githubusercontent.com/Theocyg/Theocyg/main/Private/Images/Socials/rootme.svg" alt="Rootme icon"></a>
 </p>
 
 <br>
