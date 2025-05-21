@@ -30,7 +30,7 @@
 
 🎓 Étudiant à [l’Ecole2600](https://www.2600.eu/), passionné de cybersécurité  
 🕵️‍♂️ Aspirant pentester, curieux de nature et toujours en quête de nouveaux challenges  
-🧠 Fan de CTFs, Bug Bounty, sécurité offensive, et Reverse Engineering
+🧠 Fan de CTFs, Bug Bounty, sécurité offensive, et tout ce qui touche a la tech en general
 
 > _"Failure is not an option."_
 
