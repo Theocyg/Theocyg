@@ -31,7 +31,7 @@
 
 - ✅ **Junior Penetration Tester** — TryHackMe
 - 🔄 **CPTS** — Hack The Box *(en cours)*
-- 🔄 **CBBH** — Hack The Box *(en cours)*
+- ✅ **CWES** — Hack The Box
 
 ---
 
