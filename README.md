@@ -1,5 +1,5 @@
 <h1 align="center">Théo Cygan</h1>
-<p align="center">Junior Pentester · École 2600 · Apprentissage chez Metsys</p>
+<p align="center">· Junior Pentester ·</p>
 
 <p align="center">
   <a href="https://github.com/Theocyg">
