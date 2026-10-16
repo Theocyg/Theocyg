@@ -44,7 +44,6 @@ GOAD (Game of Active Directory) pour la pratique AD en continu, stack media self
 - CVE-2023-28252 - Windows CLFS Local Privilege Escalation
 - CVE-2017-5638 - Apache Struts Exploit
 
-**Blog (non à jour)**
-Writeups et ressources pédagogiques en cybersécurité offensive : [theocyg.github.io/Blog](https://theocyg.github.io/Blog/)
+Writeups et ressources pédagogiques en cybersécurité offensive : [ICI](https://www.picsou.pro/) 
 
 ---
