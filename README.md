@@ -18,12 +18,14 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/Picsou..png" alt="TryHackMe Badge" />
   </a>
 </p>
-
+<p align="center"><b> Disponible pour un CDI en sécurité offensive </b></p>
 ---
 
 ## À propos
 
-Étudiant en dernière année à l'École 2600 (RNCP niv. 7), spécialisé en sécurité offensive. En apprentissage chez Metsys sur des missions réelles : pentest web, interne et Active Directory. Je pratique en continu via HTB (rang Hacker), un homelab Proxmox avec GOAD, et des PoC de CVE récentes.
+Diplômé de l'École 2600 (RNCP niveau 7), après trois ans d'alternance chez Metsys en sécurité offensive. J'y ai mené des pentests web (méthodologie OWASP WSTG, cotation CVSS v4, rapports clients complets) ainsi que des tests internes et Active Directory.
+
+Aujourd'hui je continue à pratiquer sur Hack The Box (rang Professional), avec un défi perso : finir toutes les box Easy et publier un write-up pour chacun.
 
 ---
 
@@ -37,13 +39,6 @@
 
 ## Projets
 
-**Homelab Proxmox "Jarvis"**
-GOAD (Game of Active Directory) pour la pratique AD en continu, stack media self-hosted (Jellyfin, Gitea), outils de pentest isolés sous Exegol.
-
-**PoC de CVE**
-- CVE-2023-28252 - Windows CLFS Local Privilege Escalation
-- CVE-2017-5638 - Apache Struts Exploit
-
-Writeups et ressources pédagogiques en cybersécurité offensive : [ICI](https://www.picsou.pro/) 
+Writeups et ressources pédagogiques : [ICI](https://www.picsou.pro/) 
 
 ---
